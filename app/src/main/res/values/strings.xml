@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Attendance_App</string>
+    <string name="subject_prompt">Choose a Subject</string>
+
+
+    <string-array name="Subjects">
+        <item>MAP</item>
+        <item>DAA</item>
+        <item>SE</item>
+        <item>CN</item>
+        <item>DP</item>
+        <item>MAP_lab</item>
+        <item>CN_lab</item>
+        <item>SE_lab</item>
+    </string-array>
+</resources>
